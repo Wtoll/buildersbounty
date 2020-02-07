@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "MODID",
+  "id": "buildingplus",
   "version": "${version}",
 
-  "name": "MODID",
+  "name": "Building Plus",
   "description": "MODID",
   "authors": [
     "Wtoll"
   ],
   "contact": {
-    "homepage": "https://github.com/Wtoll/MODID",
-    "sources": "https://github.com/Wtoll/MODID"
+    "homepage": "https://github.com/Wtoll/building-plus",
+    "sources": "https://github.com/Wtoll/building-plus"
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/buildingplus/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.wtoll.MODID.MODID"
+      "com.wtoll.buildingplus.BuildingPlus"
     ]
   },
   "mixins": [
-    "MODID.mixins.json"
+    "buildingplus.mixins.json"
   ],
 
   "depends": {
