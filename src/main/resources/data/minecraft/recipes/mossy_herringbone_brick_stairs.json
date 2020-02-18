@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "minecraft:herringbone_brick_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mossy_herringbone_brick_stairs"
+  }
+}

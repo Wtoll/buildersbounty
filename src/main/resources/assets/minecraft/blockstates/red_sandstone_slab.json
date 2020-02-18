@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom,axis=x": { "model": "block/red_sandstone_vertical_slab" },
+        "type=top,axis=x": { "model": "block/red_sandstone_vertical_slab_top" },
+        "type=double,axis=x": { "model": "block/red_sandstone" },
+        "type=bottom,axis=y": { "model": "block/red_sandstone_slab" },
+        "type=top,axis=y": { "model": "block/red_sandstone_slab_top" },
+        "type=double,axis=y": { "model": "block/red_sandstone" },
+        "type=bottom,axis=z": { "model": "block/red_sandstone_vertical_slab", "y": 90, "uvlock": true },
+        "type=top,axis=z": { "model": "block/red_sandstone_vertical_slab_top", "y": 90, "uvlock": true },
+        "type=double,axis=z": { "model": "block/red_sandstone" }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.wtoll.buildersbounty.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "PlantBlockMixin",
+    "DefaultBiomeFeaturesMixin",
+    "SlabBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

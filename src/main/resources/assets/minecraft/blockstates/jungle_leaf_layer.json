@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/jungle_leaf_layer" },
+      { "model": "minecraft:block/jungle_leaf_layer", "y": 90 },
+      { "model": "minecraft:block/jungle_leaf_layer", "y": 180 },
+      { "model": "minecraft:block/jungle_leaf_layer", "y": 270 }
+    ]
+  }
+}

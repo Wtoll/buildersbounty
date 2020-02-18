@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom,axis=x": { "model": "block/warped_slab", "x": 90, "y": 90, "uvlock": true },
+        "type=top,axis=x": { "model": "block/warped_slab_top", "x": 90, "y": 90, "uvlock": true },
+        "type=double,axis=x": { "model": "block/warped_planks", "x": 90, "y": 90, "uvlock": true },
+        "type=bottom,axis=y": { "model": "block/warped_slab" },
+        "type=top,axis=y": { "model": "block/warped_slab_top" },
+        "type=double,axis=y": { "model": "block/warped_planks" },
+        "type=bottom,axis=z": { "model": "block/warped_slab", "x": 270, "uvlock": true },
+        "type=top,axis=z": { "model": "block/warped_slab_top", "x": 270, "uvlock": true },
+        "type=double,axis=z": { "model": "block/warped_planks", "x": 270, "uvlock": true }
+    }
+}

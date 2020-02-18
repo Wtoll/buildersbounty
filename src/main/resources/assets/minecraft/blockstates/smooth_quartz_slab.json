@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom,axis=x": { "model": "block/smooth_quartz_slab", "x": 90, "y": 90, "uvlock": true },
+        "type=top,axis=x": { "model": "block/smooth_quartz_slab_top", "x": 90, "y": 90, "uvlock": true },
+        "type=double,axis=x": { "model": "block/smooth_quartz", "x": 90, "y": 90, "uvlock": true },
+        "type=bottom,axis=y": { "model": "block/smooth_quartz_slab" },
+        "type=top,axis=y": { "model": "block/smooth_quartz_slab_top" },
+        "type=double,axis=y": { "model": "block/smooth_quartz" },
+        "type=bottom,axis=z": { "model": "block/smooth_quartz_slab", "x": 270, "uvlock": true },
+        "type=top,axis=z": { "model": "block/smooth_quartz_slab_top", "x": 270, "uvlock": true },
+        "type=double,axis=z": { "model": "block/smooth_quartz", "x": 270, "uvlock": true }
+    }
+}

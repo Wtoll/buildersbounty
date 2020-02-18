@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "buildingplus",
+  "id": "buildersbounty",
   "version": "${version}",
 
-  "name": "Building Plus",
+  "name": "Builder's Bounty",
   "description": "MODID",
   "authors": [
     "Wtoll"
@@ -14,22 +14,25 @@
   },
 
   "license": "MIT",
-  "icon": "assets/buildingplus/icon.png",
+  "icon": "assets/buildersbounty/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.wtoll.buildingplus.BuildingPlus"
+      "com.wtoll.buildersbounty.BuildersBounty"
+    ],
+    "client": [
+      "com.wtoll.buildersbounty.client.BuildersBountyClient"
     ]
   },
   "mixins": [
-    "buildingplus.mixins.json"
+    "buildersbounty.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.7.2",
     "fabric": "*",
-    "minecraft": "1.15.x"
+    "minecraft": "1.16.x"
   },
   "suggests": {
     "flamingo": "*"

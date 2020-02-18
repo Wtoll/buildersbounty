@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "minecraft:block/small_stone_bricks" }
+    }
+}

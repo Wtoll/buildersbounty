@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "minecraft:block/mycelium_covered_stone_bricks"
+    }
+}

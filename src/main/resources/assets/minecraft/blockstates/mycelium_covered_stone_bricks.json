@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "minecraft:block/mycelium_covered_stone_bricks" }
+    }
+}
