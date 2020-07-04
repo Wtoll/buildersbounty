@@ -1,7 +1,6 @@
 package com.wtoll.buildersbounty.client;
 
-import com.wtoll.buildersbounty.block.ModBlocks;
-import com.wtoll.buildersbounty.item.ModItems;
+import com.wtoll.buildersbounty.init.ModBlocks;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.ColorProviderRegistry;
 import net.minecraft.block.Blocks;
@@ -22,6 +21,6 @@ public class BuildersBountyClient implements ClientModInitializer {
         ColorProviderRegistry.ITEM.register((item, layer) -> {
             ItemColorProvider provider = ColorProviderRegistry.ITEM.get(Items.GRASS_BLOCK);
             return provider == null ? -1 : provider.getColor(item, layer);
-        }, ModItems.TURF);
+        }, ModBlocks.TURF.asItem());
     }
 }

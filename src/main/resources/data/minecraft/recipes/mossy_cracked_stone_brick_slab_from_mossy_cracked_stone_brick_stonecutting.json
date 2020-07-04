@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:mossy_cracked_stone_bricks"
-  },
-  "result": "minecraft:mossy_cracked_stone_brick_slab",
-  "count": 2
-}

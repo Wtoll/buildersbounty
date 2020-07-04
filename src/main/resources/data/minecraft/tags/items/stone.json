@@ -1,13 +1,13 @@
 {
-  "replace": true,
+  "replace": false,
   "values": [
     "minecraft:stone",
     "minecraft:cobblestone",
     "minecraft:andesite",
-    "minecraft:cobbled_andesite",
+    "buildersbounty:cobbled_andesite",
     "minecraft:granite",
-    "minecraft:cobbled_granite",
+    "buildersbounty:cobbled_granite",
     "minecraft:diorite",
-    "minecraft:cobbled_diorite"
+    "buildersbounty:cobbled_diorite"
   ]
 }

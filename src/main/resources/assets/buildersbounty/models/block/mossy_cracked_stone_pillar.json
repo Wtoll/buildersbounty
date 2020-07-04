@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "buildersbounty:block/mossy_cracked_stone_pillar_top",
+    "side": "buildersbounty:block/mossy_cracked_stone_pillar"
+  }
+}

@@ -1,9 +1,10 @@
 package com.wtoll.buildersbounty.block;
 
-import net.minecraft.block.BlockState;
+import net.fabricmc.fabric.api.block.FabricBlockSettings;
+import net.minecraft.block.Block;
 
 public class StairsBlock extends net.minecraft.block.StairsBlock {
-    public StairsBlock(BlockState baseBlockState, Settings settings) {
-        super(baseBlockState, settings);
+    public StairsBlock(Block baseBlock) {
+        super(baseBlock.getDefaultState(), FabricBlockSettings.copy(baseBlock).build());
     }
 }

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:mossy_herringbone_bricks"
-  },
-  "result": "minecraft:mossy_herringbone_brick_stairs",
-  "count": 1
-}

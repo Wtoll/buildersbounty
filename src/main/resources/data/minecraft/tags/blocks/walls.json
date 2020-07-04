@@ -1,21 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:stone_wall",
-    "minecraft:smooth_stone_wall",
-    "minecraft:cobbled_andesite_wall",
-    "minecraft:cobbled_diorite_wall",
-    "minecraft:cobbled_granite_wall",
-    "minecraft:herringbone_brick_wall",
-    "minecraft:mossy_herringbone_brick_wall",
-    "minecraft:mossy_brick_wall",
-    "minecraft:cracked_stone_brick_wall",
-    "minecraft:chiseled_stone_brick_wall",
-    "minecraft:mossy_cracked_stone_brick_wall",
-    "minecraft:mossy_chiseled_stone_brick_wall",
-    "minecraft:small_stone_brick_wall",
-    "minecraft:mossy_small_stone_brick_wall",
-    "minecraft:cracked_small_stone_brick_wall",
-    "minecraft:mossy_cracked_small_stone_brick_wall"
+
   ]
 }

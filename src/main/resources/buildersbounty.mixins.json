@@ -3,9 +3,7 @@
   "package": "com.wtoll.buildersbounty.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "PlantBlockMixin",
-    "DefaultBiomeFeaturesMixin",
-    "SlabBlockMixin"
+    "PlantBlockMixin"
   ],
   "client": [
   ],

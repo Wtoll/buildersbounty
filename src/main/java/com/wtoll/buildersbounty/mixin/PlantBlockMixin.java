@@ -1,6 +1,6 @@
 package com.wtoll.buildersbounty.mixin;
 
-import com.wtoll.buildersbounty.block.ModBlocks;
+import com.wtoll.buildersbounty.init.ModBlocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.PlantBlock;
 import net.minecraft.util.math.BlockPos;
